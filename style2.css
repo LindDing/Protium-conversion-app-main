@@ -1,0 +1,46 @@
+
+p {
+    color: rgb(24, 24, 87);
+    text-align: left;
+    font-family: 'Franklin Gothic Medium';
+}
+
+body {
+    text-align: left;
+    font-size: "Franklin Gothic Medium";
+    background-color: rgb(229, 246, 247);
+}
+
+h2 {
+    color:rgb(0, 7, 73);
+    font-family: 'Franklin Gothic Medium';
+    text-align: center;
+}
+
+.btn-group button {
+    background-color: rgb(255, 255, 255);
+    padding: 0px;
+    width: 70px;
+    font-size: 14px;
+    border: solid;
+    border-radius: 5px;
+    border-color: rgb(37, 69, 83);
+    border-width: 0.1px;
+    font-family: 'Franklin Gothic Medium';
+    color:rgb(5, 61, 30)
+}
+
+.btn-group button:hover {
+    background-color: rgb(168, 229, 253);
+}
+
+select {
+    color:rgb(24, 24, 87);
+}
+
+label {
+    color:rgb(24, 24, 87);
+    font-family: 'Franklin Gothic Medium';
+}
+
+
